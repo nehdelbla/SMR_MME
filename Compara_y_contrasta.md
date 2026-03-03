@@ -1,4 +1,4 @@
-#AMD Ryzen vs Intel Core#
+###AMD Ryzen vs Intel Core###
 Comparación de rendimiento, precio y eficiencia energética
 Introducción
 
