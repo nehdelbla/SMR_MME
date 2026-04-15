@@ -1,4 +1,5 @@
 # Informe técnico de auditoría de hardware
+https://youtu.be/BD_8yiG3hz0?si=R3q8munfo_k3EQIq
 
 Este informe tiene como objetivo analizar el procesador del equipo, comparar sus características reales con las especificaciones oficiales del fabricante y realizar una pequeña prueba de rendimiento para comprobar si el hardware funciona como debería.  
 La actividad está basada en el caso estudiado de posibles discrepancias de hardware como el “caso Chuwi”.
